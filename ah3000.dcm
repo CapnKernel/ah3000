@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L487
+D Obsolete L487
+K linear regulator ldo fixed positive
+F https://datasheet.octopart.com/L487-STMicroelectronics-datasheet-28940140.pdf
+$ENDCMP
+#
+$CMP SW_7WAY
+D 7-way rotary swtich
+K  switch
+$ENDCMP
+#
+$CMP SW_Push_AH
+D Push button switch, generic, symbol, four pins
+K switch normally-open pushbutton push-button
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
+$CMP VDD
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library
