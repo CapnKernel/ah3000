@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ah3000)(type KiCad)(uri /home/mjd/src/ah3000/ah3000.pretty)(options "")(descr ""))
+)
